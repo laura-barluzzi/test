@@ -1,1 +1,3 @@
-Shopping list.
+Shopping list:
+1) eggs;
+2) flour;
